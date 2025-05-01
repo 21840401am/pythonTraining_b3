@@ -15,6 +15,7 @@ variable2 = "java"
 # print(my_variable, variable2, sep='@')
 
 def add_num(a,b) -> int:
+    
     print(a+b)
     print(a+b)
     
