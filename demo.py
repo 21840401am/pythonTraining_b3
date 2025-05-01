@@ -21,7 +21,7 @@ with open("file1.txt", "w") as f :
     print(my_variable, variable2, sep='@', file=f)
 
 for i in range(5):
-    '''The for loop will iterate over every element in the range
+    ''' for loop will iterate over every element in the range
     and it prints the output to the console with space seperated'''
     print(i, end=" ",\
     flush=True)
