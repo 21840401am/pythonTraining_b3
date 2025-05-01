@@ -18,6 +18,7 @@ def add_num(a,b) -> int:
     
     print(a+b)
     print(a+b)
+    print(a+b)
     
 with open("file1.txt", "w") as f :
     print(my_variable, variable2, sep='@', file=f)
